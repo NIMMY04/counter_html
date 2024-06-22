@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    color: white;
+}
+.container{
+    height:100 vh;
+    width:100vw;
+    margin:30px;
+}
+.container div{
+    margin-top: 20px;
+}
+
+#increment,#decrement,#clear{
+    background-color: white;
+    padding: 0 40px;
+    border:none;
+    color:black;
+    
+}
